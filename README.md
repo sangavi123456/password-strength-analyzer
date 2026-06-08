@@ -1,2 +1,2 @@
 # password-strength-analyzer
-pythonproject to analyse password strength
+python project to analyse password strength
